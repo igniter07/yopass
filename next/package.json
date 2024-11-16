@@ -15,7 +15,7 @@
     "@types/memjs": "^1.2.3",
     "clsx": "latest",
     "file-saver": "^2.0.5",
-    "i18next": "^21.6.0",
+    "i18next": "^21.10.0",
     "memjs": "^1.3.0",
     "next": "14.2.15",
     "next-i18next": "^10.0.1",
