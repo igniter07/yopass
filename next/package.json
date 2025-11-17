@@ -11,7 +11,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.16",
-    "@mui/material": "latest",
+    "@mui/material": "5.18.0",
     "@types/memjs": "^1.2.3",
     "clsx": "latest",
     "file-saver": "^2.0.5",
